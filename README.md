@@ -3,16 +3,10 @@ Image and Real time webcam face detection, protect yourself from COVID19 with a 
 
 Utilize tensorflowjs facemesh model.
 
-## Live Demo
-**[https://bensonruan.com/face-detection-javascript-real-time-mask-application/](https://bensonruan.com/face-detection-javascript-real-time-mask-application/)**
-
-![mask-for-Trump](https://bensonruan.com/wp-content/uploads/2020/05/Mask_for_Trump.gif)
-
-
 ## Installing
 Clone this repository to your local computer
 ``` bash
-git https://github.com/bensonruan/Face-Mask.git
+git https://github.com/jswebguru/face-masking.git
 ```
 Point your localhost to the cloned root directory
 
@@ -43,6 +37,3 @@ The facemesh detected keypoints that used for overlay the mask:
 * [jquery](https://code.jquery.com/jquery-3.3.1.min.js) - JQuery
 * [webcam-easy.js](https://github.com/bensonruan/webcam-easy) - javascript library for accessing webcam stream and taking photos
 * [facemesh](https://github.com/tensorflow/tfjs-models/tree/master/facemesh) - MediaPipe Facemesh is a lightweight machine learning pipeline predicting 486 3D facial landmarks to infer the approximate surface geometry of a human face
-
-## Support me 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W6METMY)
